@@ -28,23 +28,33 @@ Tools: Git, GitHub
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🧠 Financial News Sentiment Prediction
-
+### 🧠 Financial News Sentiment Prediction
 NLP project using BERT/FinBERT to classify financial news sentiment.
 
-📊 Marketing Campaign Analytics
+🔗 [View Project](https://github.com/jayarprakash04-ctrl/Financial-News-Sentiment-Prediction-using-Deep-Learning-BERT)
 
-Analyzed marketing campaign data to identify customer behavior and campaign performance.
+---
 
-🏏 Cricbuzz Live Stats
+### 📊 Marketing Campaign Analytics
+Data analysis project focused on marketing campaign performance and customer insights using Python.
 
-Sports data engineering and analysis project using Python.
+🔗 [View Project](https://github.com/jayarprakash04-ctrl/marketing-campaign-analytics)
 
-📍 Telangana PDS Shop Clustering
+---
 
-Machine learning project using clustering techniques to analyze PDS shop data.
+### 🏏 Cricbuzz Live Stats
+Sports data engineering and analytics project using Python to collect and analyze cricket data.
+
+🔗 [View Project](https://github.com/jayarprakash04-ctrl/Cricbuzz_LiveStats_Project)
+
+---
+
+### 📍 Telangana PDS Shop Clustering
+Machine learning project using clustering techniques to analyze and group PDS shops based on relevant features.
+
+🔗 [View Project](https://github.com/jayarprakash04-ctrl/telangana-pds-shop-clustering)
 
 ---
 
