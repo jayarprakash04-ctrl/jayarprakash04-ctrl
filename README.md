@@ -75,7 +75,7 @@ GUVI × HCL
 
 📫 Connect With Me
 
-🔗 LinkedIn: Add your LinkedIn profile link here
+🔗 LinkedIn: https://www.linkedin.com/in/jaya-prakash-0b791a361
 
 💻 GitHub: "jayarprakash04-ctrl" (https://github.com/jayarprakash04-ctrl)
 
