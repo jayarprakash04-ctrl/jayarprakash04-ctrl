@@ -60,7 +60,7 @@ Machine learning project using clustering techniques to analyze and group PDS sh
 
 🎓 Education
 
-B.Tech – Computer Science Engineering
+B.Tech – Computer Science Engineering (2026)
 
 Kalasalingam University
 
